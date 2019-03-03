@@ -1,7 +1,5 @@
-# Ricahrd-Li.github.io
+# "To live is to change the world.'
+
 ## Welcome!
-### I intend to create my personal webpage to share with people my interest and experinence.
+### This is a place to share with you interesting things and my useful experinence.
 ---
-**My 2019 aim:** 
-+ Keep Reading after class
-+ promote Python and C++
