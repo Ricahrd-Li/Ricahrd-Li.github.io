@@ -1,1 +1,5 @@
 hello,git!
+
+Now I am trying to connect my Github and Git.
+And then I plan to make a website using Travis CI.
+
